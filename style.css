@@ -169,6 +169,8 @@ footer {
 footer h3 {
   font-size: 10px;
   text-align: center;
+  text-shadow: 1px 1px 2px black;
+  text-decoration: double;
   padding-bottom: 10px;
 }
 
