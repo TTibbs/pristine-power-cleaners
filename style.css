@@ -69,7 +69,7 @@ nav {
 
 .nav-list li a {
   color: #fff;
-  font-size: 20px;
+  font-size: 17px;
   text-transform: uppercase;
 }
 
@@ -80,7 +80,7 @@ nav {
 
 .hamburger-btn {
   display: block;
-  font-size: 30px;
+  font-size: 20px;
   color: #fff;
   float: right;
   line-height: 75px;
