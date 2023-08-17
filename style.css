@@ -194,6 +194,8 @@ footer h3 {
 .fa-brands {
   width: 30px;
   padding: 0 10px;
+  text-shadow: 1px 1px 2px black;
+  text-decoration: double;
 }
 
 /* End of main */
